@@ -1,4 +1,4 @@
-# summit connect quarkus demo
+# quarkus crud application
 
 ## Bootstrapping Quarkus Applications with quarkus cli
 
