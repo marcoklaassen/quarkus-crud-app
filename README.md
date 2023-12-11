@@ -1,4 +1,4 @@
-# quarkus crud application
+# quarkus crud demo application
 
 ## Bootstrapping Quarkus Applications with quarkus cli
 
